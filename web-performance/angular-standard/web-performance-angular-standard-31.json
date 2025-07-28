@@ -1,0 +1,86 @@
+{
+  "url": "http://localhost:4200",
+  "networkProfile": "standard",
+  "timestamp": "2025-07-10T13:10:00.871Z",
+  "vitals": [
+    {
+      "name": "domContentLoaded",
+      "value": 0
+    },
+    {
+      "name": "domInteractive",
+      "value": 85.30000001192093
+    },
+    {
+      "name": "FCP",
+      "value": 116,
+      "rating": "good",
+      "delta": 116,
+      "entries": [
+        {}
+      ],
+      "id": "v5-1752152998260-9759518676966",
+      "navigationType": "navigate"
+    },
+    {
+      "name": "TTFB",
+      "value": 76.80000001192093,
+      "rating": "good",
+      "delta": 76.80000001192093,
+      "entries": [
+        {}
+      ],
+      "id": "v5-1752152998260-2070979505162",
+      "navigationType": "navigate"
+    },
+    {
+      "name": "LCP",
+      "value": 116,
+      "rating": "good",
+      "delta": 116,
+      "entries": [
+        {}
+      ],
+      "id": "v5-1752152998260-8611889552390",
+      "navigationType": "navigate"
+    },
+    {
+      "name": "INP",
+      "value": 32,
+      "rating": "good",
+      "delta": 24,
+      "entries": [
+        {}
+      ],
+      "id": "v5-1752152998260-4058658734676",
+      "navigationType": "navigate"
+    },
+    {
+      "name": "CLS",
+      "value": 0,
+      "rating": "good",
+      "delta": 0,
+      "entries": [],
+      "id": "v5-1752152998281-1295202051141",
+      "navigationType": "navigate"
+    }
+  ],
+  "chromeMetrics": {
+    "Timestamp": 143754.807868,
+    "Documents": 1,
+    "Frames": 1,
+    "JSEventListeners": 310,
+    "Nodes": 5882,
+    "LayoutCount": 109,
+    "RecalcStyleCount": 344,
+    "LayoutDuration": 0.052365,
+    "RecalcStyleDuration": 0.021828,
+    "ScriptDuration": 0.081159,
+    "TaskDuration": 0.486154,
+    "JSHeapUsedSize": 8710512,
+    "JSHeapTotalSize": 17448960
+  },
+  "interactionCount": 50,
+  "delayMs": 0,
+  "timeoutMs": 30000
+}

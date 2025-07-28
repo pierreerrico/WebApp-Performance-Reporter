@@ -1,0 +1,142 @@
+{
+  "Timestamp": {
+    "count": 50,
+    "mean": 143896.1117,
+    "stdDev": 45.1683,
+    "min": 143819.216339,
+    "max": 143972.61481
+  },
+  "Documents": {
+    "count": 50,
+    "mean": 1.68,
+    "stdDev": 0.9474,
+    "min": 1,
+    "max": 3
+  },
+  "Frames": {
+    "count": 50,
+    "mean": 1,
+    "stdDev": 0,
+    "min": 1,
+    "max": 1
+  },
+  "JSEventListeners": {
+    "count": 50,
+    "mean": 2225.22,
+    "stdDev": 1329.5388,
+    "min": 517,
+    "max": 6074
+  },
+  "Nodes": {
+    "count": 50,
+    "mean": 2711.64,
+    "stdDev": 703.8315,
+    "min": 1243,
+    "max": 4785
+  },
+  "LayoutCount": {
+    "count": 50,
+    "mean": 115.62,
+    "stdDev": 18.5234,
+    "min": 77,
+    "max": 157
+  },
+  "RecalcStyleCount": {
+    "count": 50,
+    "mean": 307.36,
+    "stdDev": 17.6202,
+    "min": 263,
+    "max": 339
+  },
+  "LayoutDuration": {
+    "count": 50,
+    "mean": 0.0488,
+    "stdDev": 0.0031,
+    "min": 0.042822,
+    "max": 0.057627
+  },
+  "RecalcStyleDuration": {
+    "count": 50,
+    "mean": 0.018,
+    "stdDev": 0.0036,
+    "min": 0.011961,
+    "max": 0.029401
+  },
+  "ScriptDuration": {
+    "count": 50,
+    "mean": 0.0676,
+    "stdDev": 0.0067,
+    "min": 0.056334,
+    "max": 0.083334
+  },
+  "TaskDuration": {
+    "count": 50,
+    "mean": 0.4551,
+    "stdDev": 0.0535,
+    "min": 0.358115,
+    "max": 0.560685
+  },
+  "JSHeapUsedSize": {
+    "count": 50,
+    "mean": 5480906.32,
+    "stdDev": 838967.3658,
+    "min": 3643188,
+    "max": 7222412
+  },
+  "JSHeapTotalSize": {
+    "count": 50,
+    "mean": 10915676.16,
+    "stdDev": 1351768.6097,
+    "min": 8912896,
+    "max": 14155776
+  },
+  "domContentLoaded": {
+    "count": 50,
+    "mean": 61.434,
+    "stdDev": 11.1488,
+    "min": 44.900000005960464,
+    "max": 94.30000001192093
+  },
+  "domInteractive": {
+    "count": 50,
+    "mean": 61.386,
+    "stdDev": 11.1451,
+    "min": 44.900000005960464,
+    "max": 94.2000000178814
+  },
+  "FCP": {
+    "count": 50,
+    "mean": 97.36,
+    "stdDev": 13.7314,
+    "min": 52,
+    "max": 120
+  },
+  "TTFB": {
+    "count": 50,
+    "mean": 50.556,
+    "stdDev": 9.8212,
+    "min": 9,
+    "max": 77.5
+  },
+  "LCP": {
+    "count": 50,
+    "mean": 97.36,
+    "stdDev": 13.7314,
+    "min": 52,
+    "max": 120
+  },
+  "INP": {
+    "count": 50,
+    "mean": 32.48,
+    "stdDev": 8.5282,
+    "min": 16,
+    "max": 80
+  },
+  "CLS": {
+    "count": 50,
+    "mean": 0,
+    "stdDev": 0,
+    "min": 0,
+    "max": 0
+  }
+}
